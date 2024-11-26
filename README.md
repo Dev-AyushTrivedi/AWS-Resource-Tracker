@@ -27,7 +27,7 @@ Before using this script, ensure you have the following:
 1. Clone the repository or download the script to your local machine:
 
    ```bash
-   git clone <https://github.com/Dev-AyushTrivedi/AWS-Resource-Tracker/tree/master>
+   git clone https://github.com/Dev-AyushTrivedi/AWS-Resource-Tracker/tree/master
    ```
 
 2. Run the script using the following command:
