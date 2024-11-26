@@ -17,7 +17,7 @@ Before using this script, ensure you have the following:
 3. **Execute Permissions**: Make sure the script has execute permissions. You can grant it using:
 
    ```bash
-   chmod +x script_name.sh
+   chmod +x aws_resource_tracker.sh
    ```
 
 4. **IAM Permissions**: Ensure the AWS credentials you are using have sufficient permissions to access EC2, S3, Lambda, and IAM resources.
@@ -27,8 +27,7 @@ Before using this script, ensure you have the following:
 1. Clone the repository or download the script to your local machine:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone <https://github.com/Dev-AyushTrivedi/AWS-Resource-Tracker/tree/master>
    ```
 
 2. Run the script using the following command:
